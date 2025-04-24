@@ -129,7 +129,11 @@ for i, pred in enumerate(predictions):
 ```
 
 ## Hasil dan Kesimpulan
-Model Decision Tree yang dibangun mampu mengklasifikasikan kelayakan kredit komputer dengan tingkat akurasi yang baik. Faktor-faktor yang paling berpengaruh dalam penentuan kelayakan kredit berdasarkan model ini adalah [akan diisi setelah model dilatih].
+Model Decision Tree yang dibangun mampu mengklasifikasikan kelayakan kredit komputer dengan tingkat akurasi yang baik. Faktor-faktor yang paling berpengaruh dalam penentuan kelayakan kredit berdasarkan model ini adalah:
+
+
+![image](https://github.com/user-attachments/assets/74b626ba-1a56-479a-90f2-1ef1b711dcb8)
+
 
 Visualisasi pohon keputusan menunjukkan bahwa model membuat keputusan berdasarkan aturan-aturan yang mudah diinterpretasikan, menjadikan model ini tidak hanya akurat tetapi juga dapat dipahami oleh pengguna bisnis.
 
@@ -143,4 +147,4 @@ Visualisasi pohon keputusan menunjukkan bahwa model membuat keputusan berdasarka
 - joblib
 
 ## Catatan
-Model ini dikembangkan untuk tujuan pembelajaran dan demonstrasi. Untuk implementasi dalam lingkungan produksi, perlu dilakukan pengujian dan optimalisasi lebih lanjut.
+Model ini dikembangkan sebagai tugas UTS pembelajaran mesin.
